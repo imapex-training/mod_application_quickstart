@@ -128,3 +128,60 @@ A good README file is important for outlining the motivation behind a particular
 8. Open pull request to existing repostiory
 
 [item]: # (/slide)
+
+[item]: # (slide)
+
+# imapex Sprint Plan
+
+[item]: # (/slide)
+
+[item]: # (slide)
+
+> “By failing to prepare, you are preparing to fail.” Benjamin Franklin
+
+[item]: # (/slide)
+
+[item]: # (slide)
+
+## Sprint Overview
+
+* 3 Week Long Sprint
+* Kickoff on Friday Before 
+* Close down Monday After
+* Spark Check-ins Every Tuesday
+* 30 Min WebEx Stand-Ups Every Friday
+
+[item]: # (/slide)
+
+[item]: # (slide)
+
+## Week 1 Goals
+
+* Identify User Stories in Scope
+* Plan and Design the Micro-Services to be built
+* What infrastructure and external services will be used/needed
+* Divide up workload across dev team
+* Design and construct pipeline
+
+[item]: # (/slide)
+
+[item]: # (slide)
+
+## Week 2 Goals
+
+* Do actual coding of individual services and components
+* Test and Integrate elements together
+* Repeat until Sprint stories are complete
+
+[item]: # (/slide)
+
+[item]: # (slide)
+
+## Week 3 Goals
+
+* Ensure Code is well documented and packaged
+* Create Install and Use Documentation
+* Record 5 Minute or Less “Marketing Video"
+* Have someone outside of the Dev Team test installation and deployment
+
+[item]: # (/slide)
