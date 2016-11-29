@@ -6,6 +6,10 @@
 
 [item]: # (/slide)
 
+## Abstract 
+
+You have an idea for an amazing application but you aren't sure how to get started.  That's totally expected... getting the idea, and even writing the code isn't actually the difficult part in building an application.  The challenge comes in developing with discipline, keeping in mind an application isn't successful unless people use it.  In imapex our applications are designed to be easy to deploy, use and contribute code to.  This means you need to focus up front on questions like "How will others deploy my application?", "How can I quickly and easily test application changes?", and "What is my MVP and how can I build it fast!"  In this module we'll explore what makes a great imapex application, and our suggested "Code Sprint" plan.  
+
 [item]: # (slide)
 
 ## Topics
