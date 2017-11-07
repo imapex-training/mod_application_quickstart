@@ -8,7 +8,7 @@
 
 ## Abstract 
 
-You have an idea for an amazing application but you aren't sure how to get started.  That's totally expected... getting the idea, and even writing the code isn't actually the difficult part in building an application.  The challenge comes in developing with discipline, keeping in mind an application isn't successful unless people use it.  In imapex our applications are designed to be easy to deploy, use and contribute code to.  This means you need to focus up front on questions like "How will others deploy my application?", "How can I quickly and easily test application changes?", and "What is my MVP and how can I build it fast!"  In this module we'll explore what makes a great imapex application, and our suggested "Code Sprint" plan.  
+You have an idea for an amazing application but you aren't sure how to get started.  That's totally expected... getting the idea, and even writing the code isn't actually the difficult part in building an application.  The challenge comes in developing with discipline, keeping in mind an application isn't successful unless people use it.  In imapex our applications are designed to be easy to deploy, use and contribute code to.  This means you need to focus upfront on questions like "How will others deploy my application?", "How can I quickly and easily test application changes?", and "What is my MVP and how can I build it fast!"  In this module we'll explore what makes a great imapex application, and our suggested "Code Sprint" plan.  
 
 [item]: # (slide)
 
@@ -33,7 +33,7 @@ You have an idea for an amazing application but you aren't sure how to get start
 
 [item]: # (slide)
 
-## Easy Reproducability
+## Easy Reproducibility
 
 Building personal demos is an excellent use of time, but building a demo that can be easily leveraged by anyone extend the works value exponentially.  To be a complete imapex application until anyone can take the code and replicate it on their own.  
 
@@ -43,7 +43,7 @@ Building personal demos is an excellent use of time, but building a demo that ca
 
 ## Clear Documentation 
 
-A key to easy reproducability is clear and accurate documentation, both within the code as well as in installation and usage instructions.  Details on what the demo shows, prereqs, how to install and demo, and how to develop all need to be included in the code README file.  
+A key to easy reproducibility is clear and accurate documentation, both within the code as well as in installation and usage instructions.  Details on what the demo shows, prereqs, how to install and demo, and how to develop all need to be included in the code README file.  
 
 [item]: # (/slide)
 
@@ -129,7 +129,7 @@ A good README file is important for outlining the motivation behind a particular
 5. develop cool feature
 6. incorporate any upstream changes to your fork / branch
 7. merge your feature branch
-8. Open pull request to existing repostiory
+8. Open pull request to existing repository
 
 [item]: # (/slide)
 
